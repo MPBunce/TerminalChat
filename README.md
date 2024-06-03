@@ -1,3 +1,3 @@
-# RustCalculator
+# Terminal Chat
 
-CLI Calculator written in rust
+Connect and chat via the terminal
